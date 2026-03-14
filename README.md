@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Arpit
 
-<!--
-**OfficialArpitNege/OfficialArpitNege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Java • DSA • Full Stack Development
 
-Here are some ideas to get you started:
+I’m a Computer Science engineering student who is passionate about building a strong foundation in full stack development. Currently focusing on **Java, Data Structures & Algorithms, and Full Stack Development** while improving problem-solving skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a skilled software developer and build impactful projects that solve real-world problems.
+
+---
+
+🚀 Currently Learning
+
+* Java Programming
+* Data Structures & Algorithms (DSA)
+* Object Oriented Programming (OOP)
+* Web Development (Frontend & Backend)
+
+---
+
+📚 Goals
+
+* Master **DSA using Java**
+* Build strong **Full Stack projects**
+* Contribute to **open source**
+* Prepare for **software developer roles**
+
+---
+
+📫 Connect With Me
+
+* GitHub: https://github.com/OfficialArpitNege
+* LinkedIn: www.linkedin.com/in/arpitnege
+
+---
+
+⭐ Always learning, always building.
