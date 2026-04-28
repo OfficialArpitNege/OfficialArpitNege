@@ -31,7 +31,7 @@ I'm a Computer Science engineering student passionate about building a strong fo
 ## 💻 Tech Stack & Skills
 
 **Languages:** Java, JavaScript, HTML/CSS, SQL  
-**Backend:** Spring Boot, RESTful APIs, Database Design  
+**Backend:** Spring Boot, RESTful API 
 **Frontend:** React, DOM Manipulation, Responsive Design  
 **Tools & Platforms:** Git/GitHub, Maven, Linux, VS Code  
 **Soft Skills:** Team collaboration, Git coordination, Code review, Problem-solving
